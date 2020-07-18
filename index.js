@@ -2,7 +2,7 @@ const {Client,RichEmbed} = require('discord.js');
 
 const bot = new Client();
 
-const token = 'Njc0MjE2NTc4MTYxNzA0OTcx.XlE01A.YkxOrQl_lcgpjXhyqHr_qIscCCI';
+const token = 'Njc0MjE2NTc4MTYxNzA0OTcx.XxL2_Q.MJ5aaZv8u0NQvVfhlZOtXU0ev-8';
 
 const PREFIX = '!';
 
